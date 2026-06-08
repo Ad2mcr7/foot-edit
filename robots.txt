@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://https:/ad2mcr7.github.io/foot-edit/sitemap.xml
